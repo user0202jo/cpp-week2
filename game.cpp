@@ -28,4 +28,5 @@ void game1(){
         cout << "Strikes: " << strikes << " Balls: " << balls << endl;
     }while(answer != guess);
     
+    cout << "You Win!!" << endl;
 }
